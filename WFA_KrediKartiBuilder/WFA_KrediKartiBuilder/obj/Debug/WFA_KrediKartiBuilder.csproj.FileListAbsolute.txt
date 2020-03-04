@@ -1,0 +1,9 @@
+C:\Users\reyhan\Desktop\GitHub\Yeni klasör (2)\DesignPatterns\04.03\WFA_KrediKartiBuilder\WFA_KrediKartiBuilder\bin\Debug\WFA_KrediKartiBuilder.exe.config
+C:\Users\reyhan\Desktop\GitHub\Yeni klasör (2)\DesignPatterns\04.03\WFA_KrediKartiBuilder\WFA_KrediKartiBuilder\bin\Debug\WFA_KrediKartiBuilder.exe
+C:\Users\reyhan\Desktop\GitHub\Yeni klasör (2)\DesignPatterns\04.03\WFA_KrediKartiBuilder\WFA_KrediKartiBuilder\bin\Debug\WFA_KrediKartiBuilder.pdb
+C:\Users\reyhan\Desktop\GitHub\Yeni klasör (2)\DesignPatterns\04.03\WFA_KrediKartiBuilder\WFA_KrediKartiBuilder\obj\Debug\WFA_KrediKartiBuilder.csprojAssemblyReference.cache
+C:\Users\reyhan\Desktop\GitHub\Yeni klasör (2)\DesignPatterns\04.03\WFA_KrediKartiBuilder\WFA_KrediKartiBuilder\obj\Debug\WFA_KrediKartiBuilder.Form1.resources
+C:\Users\reyhan\Desktop\GitHub\Yeni klasör (2)\DesignPatterns\04.03\WFA_KrediKartiBuilder\WFA_KrediKartiBuilder\obj\Debug\WFA_KrediKartiBuilder.Properties.Resources.resources
+C:\Users\reyhan\Desktop\GitHub\Yeni klasör (2)\DesignPatterns\04.03\WFA_KrediKartiBuilder\WFA_KrediKartiBuilder\obj\Debug\WFA_KrediKartiBuilder.csproj.GenerateResource.cache
+C:\Users\reyhan\Desktop\GitHub\Yeni klasör (2)\DesignPatterns\04.03\WFA_KrediKartiBuilder\WFA_KrediKartiBuilder\obj\Debug\WFA_KrediKartiBuilder.exe
+C:\Users\reyhan\Desktop\GitHub\Yeni klasör (2)\DesignPatterns\04.03\WFA_KrediKartiBuilder\WFA_KrediKartiBuilder\obj\Debug\WFA_KrediKartiBuilder.pdb
